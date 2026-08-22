@@ -1,0 +1,1 @@
+# ScanDine-QR-Based-Ordering-Restaurant-Management-Portal
